@@ -1,5 +1,5 @@
-//Mishree Kalaria
-//24070123052
+//Jasnoor Kaur
+//24070123049
 //Btach:A2
 
 #include <iostream>
